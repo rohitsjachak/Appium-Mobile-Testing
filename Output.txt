@@ -1,0 +1,28 @@
+[TestNG] Running:
+  C:\Users\RupeshK\AppData\Local\Temp\testng-eclipse--916976597\testng-customsuite.xml
+
+UserNamejachakrohit0...
+PASSED: menuOptionsCheck
+PASSED: login
+PASSED: addProductToWishlist
+PASSED: deleteFromWishList
+PASSED: addProductToCart
+PASSED: logout
+
+===============================================
+    Default test
+    Tests run: 6, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 6, Failures: 0, Skips: 0
+===============================================
+
+[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e265ba4: 62 ms
+[TestNG] Time taken by org.testng.reporters.jq.Main@442d9b6e: 188 ms
+[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1c655221: 172 ms
+[TestNG] Time taken by org.testng.reporters.XMLReporter@75a1cd57: 31 ms
+[TestNG] Time taken by [FailedReporter passed=0 failed=0 skipped=0]: 0 ms
+[TestNG] Time taken by org.testng.reporters.EmailableReporter2@5e91993f: 31 ms
